@@ -1,1 +1,2 @@
 And again test
+New string
